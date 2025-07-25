@@ -85,3 +85,9 @@ Email: [jeneshka883@gmail.com]
 
 🛡️ License
 MIT — reuse with respect for emotional design and user integrity.
+
+## 🔮 Future Roadmap
+
+- Expand mentorship features
+- Add multilingual prompt support
+- Deploy to Zama’s encrypted mobile gateway
